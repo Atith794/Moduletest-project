@@ -45,6 +45,10 @@ li,a{
     letter-spacing: 0em;
     text-align: left;
 }
+
+.ntext{
+    text-decoration: none;
+}
 .navp3{
     list-style: none;
 } 
